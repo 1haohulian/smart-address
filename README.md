@@ -29,7 +29,7 @@ pprint(r)
 ```
 结果为：
 ![image](https://user-images.githubusercontent.com/7934974/83218657-f0804980-a1a0-11ea-9c0e-e735ef35749e.png)
-![image](https://gitlab.zhiyantek.com/liuxiaoming/address/blob/master/example.png)
+![image](./example.png)
 
 `demo.php/demo.py`里面有使用示例，如果字符串里面不包含电话，姓名，身份证等，只需要解析地址，可以用：
 ```php
