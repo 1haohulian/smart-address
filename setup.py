@@ -12,7 +12,7 @@ setup(
         'Intended Audience :: Developers',
         'Operating System :: OS Independent',
     ],
-    # url='',
+    url='https://github.com/1haohulian/smart-address',
     packages=find_packages(),
     python_requires='>=3.6',
 )
