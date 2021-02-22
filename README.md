@@ -21,7 +21,7 @@ print_r($r);
 ```
 ```python
 from pprint import pprint
-from address import Address
+from smartaddress.address import Address
 addr = Address()
 string = '深圳市龙华区龙华街道1980科技文化产业园3栋317    张三    13800138000 518000 120113196808214821'
 r = addr.smart(string)

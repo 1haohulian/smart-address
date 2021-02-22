@@ -1,9 +1,9 @@
 import re
 import math
 
-from datas.a1 import a1_data
-from datas.a2 import a2_data
-from datas.a3 import a3_data
+from .datas.a1 import a1_data
+from .datas.a2 import a2_data
+from .datas.a3 import a3_data
 
 
 class Address:

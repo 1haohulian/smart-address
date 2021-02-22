@@ -1,5 +1,5 @@
 from pprint import pprint
-from address import Address
+from smartaddress.address import Address
 
 addr = Address()
 
